@@ -1,11 +1,12 @@
 run the Backend
 
-```bash
-
+```
+bash
 cd backend
 npm install
 npm run dev
 ```
+
 Run the Frontend
 
 ```
